@@ -14,8 +14,8 @@
 - [Personal Website](https://sillycodergirl.github.io)
 
 ## 💼 Projects
-### FUNK Engine
- - Currently a WIP, FUNK Engine is a full built-from-scratch engine made in HaxeFlixel. 
+### Untitled Funkin' Engine
+ - Currently a WIP, UFE (Untitled Funkin' Engine) is a full built-from-scratch engine made in HaxeFlixel. 
  - Planned to have many new features like:
  -- Based off .fnfc, one file that holds the entire song data for a song called .funk
  -- A readable codebase for new programmers (almost everything is documented)
