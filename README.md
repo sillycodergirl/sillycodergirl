@@ -17,9 +17,9 @@
 ### Untitled Funkin' Engine
  - Currently a WIP, UFE (Untitled Funkin' Engine) is a full built-from-scratch engine made in HaxeFlixel. 
  - Planned to have many new features like:
- -- Based off .fnfc, one file that holds the entire song data for a song called .funk
- -- A readable codebase for new programmers (almost everything is documented)
- -- A cleaner experience for the programmers AND the players.
+   - Based off .fnfc, one file that holds the entire song data for a song called .funk
+   - A readable codebase for new programmers (almost everything is documented)
+   - A cleaner experience for the programmers AND the players.
  (more coming soon)
 
 
